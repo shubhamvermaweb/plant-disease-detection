@@ -4,5 +4,4 @@ numpy
 pandas
 pillow
 scikit-learn
-torch
-torchvision
+tensorflow-cpu==2.16.1
